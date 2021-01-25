@@ -1,3 +1,5 @@
+//ATTiny85 Hello World
+//Kyle Cossio
 int led = 1; // led is on digital pin 0
 int button = 0; //button is on digital pin 0
 int state = 0; // state variable for the state machine
